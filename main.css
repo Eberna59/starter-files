@@ -30,11 +30,15 @@ h3 {
 }
 
 p {
-
+	color: white;
 }
 
 .album-art {
-
+	float: left;
+	border: 3px solid red;
+	margin: 2em;
+	padding: 1em;
+	width: auto;
 }
 
 .clear {
@@ -42,11 +46,16 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	float: left;
+	border: 5px solid red;
+	margin: 2em;
+	padding: 1em;
+	width: auto;
 }
 
 .record-label {
-
+	color: red;
+	font-style: italic;
 }
 
 .track-list {
