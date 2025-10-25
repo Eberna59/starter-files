@@ -59,21 +59,33 @@ p {
 }
 
 .track-list {
-
+	color: red;
 }
 
 #about-photo {
-
+	float: left;
+	border: 3px solid red;
+	padding: 1em;
+	margin: auto;
+	width: auto;
 }
 
 #copyright {
-
+	color: red;
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	border: 3px solid red;
+	margin: 1em;
+	padding: 1em;
+	width: auto;
 }
 
 #text-intro {
-	
+	color: red;
+	background-color: gray;
+	border: 3px solid red; 
+	margin: 2em;
+	padding: 1em;
+	width: auto;
 }
